@@ -1,0 +1,8 @@
+node_modules
+.npm
+dist
+.git
+.gitignore
+*.md
+karma.conf.js
+tsconfig.spec.json
